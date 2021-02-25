@@ -41,6 +41,7 @@ function Gamer() {
           >
             {name}
           </div>
+          <div>just made some new changes</div>
         </center>
       ))}
     </div>
